@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "discord.js": "^14.22.1",
-    "dotenv": "^17.2.2"
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
   },
   "name": "bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "start": "node index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
